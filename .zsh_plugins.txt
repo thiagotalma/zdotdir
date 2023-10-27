@@ -25,10 +25,10 @@
 # assume GitHub.com, then you can use the user/repo shorthand.
 #
 ###
-https://github.com/peterhurford/up.zsh
-rummik/zsh-tailf
-mattmc3/zman
-agkozak/zsh-z
+####https://github.com/peterhurford/up.zsh
+####rummik/zsh-tailf
+####mattmc3/zman
+####agkozak/zsh-z
 
 
 ### Local Plugins
@@ -89,7 +89,7 @@ sindresorhus/pure
 # bundles can often be made available simply with the `kind:path` annotation.
 #
 ###
-romkatv/zsh-bench kind:path
+####romkatv/zsh-bench kind:path
 
 
 ### Frameworks
@@ -117,13 +117,13 @@ romkatv/zsh-bench kind:path
 #   ohmyzsh/ohmyzsh path:lib/clipboard.zsh
 #
 ####
-ohmyzsh/ohmyzsh path:lib/clipboard.zsh
-ohmyzsh/ohmyzsh path:plugins/copybuffer
-ohmyzsh/ohmyzsh path:plugins/copyfile
-ohmyzsh/ohmyzsh path:plugins/copypath
-ohmyzsh/ohmyzsh path:plugins/extract
-ohmyzsh/ohmyzsh path:plugins/magic-enter
-ohmyzsh/ohmyzsh path:plugins/fancy-ctrl-z
+####ohmyzsh/ohmyzsh path:lib/clipboard.zsh
+####ohmyzsh/ohmyzsh path:plugins/copybuffer
+####ohmyzsh/ohmyzsh path:plugins/copyfile
+####ohmyzsh/ohmyzsh path:plugins/copypath
+####ohmyzsh/ohmyzsh path:plugins/extract
+####ohmyzsh/ohmyzsh path:plugins/magic-enter
+####ohmyzsh/ohmyzsh path:plugins/fancy-ctrl-z
 
 
 ### Framework: Prezto
@@ -173,8 +173,8 @@ ohmyzsh/ohmyzsh path:plugins/fancy-ctrl-z
 #
 ###
 belak/zsh-utils path:history
-belak/zsh-utils path:utility
-belak/zsh-utils path:editor
+####belak/zsh-utils path:utility
+####belak/zsh-utils path:editor
 
 ### Deferred Plugins
 #
