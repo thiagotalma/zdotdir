@@ -22,7 +22,10 @@ alias cd..='cd ..'
 alias cd...='cd ../..'
 
 #apt
-alias update='sudo apt update && sudo apt upgrade'
+alias upgrade='sudo apt update && sudo apt upgrade'
+
+#update git antidote
+alias update='git --git-dir=$HOME/.config/zsh/.git --work-tree=$HOME/.config/zsh pull'
 
 # tar
 alias tarls="tar -tvf"
