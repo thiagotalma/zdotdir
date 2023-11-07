@@ -15,8 +15,8 @@ fi
 # Editors
 #
 
-export EDITOR="${EDITOR:-vim}"
-export VISUAL="${VISUAL:-vim}"
+#export EDITOR="${EDITOR:-vim}"
+#export VISUAL="${VISUAL:-vim}"
 export PAGER="${PAGER:-less}"
 
 #
