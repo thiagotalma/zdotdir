@@ -21,6 +21,9 @@ alias quit='exit'
 alias cd..='cd ..'
 alias cd...='cd ../..'
 
+#apt
+alias update='sudo apt update && sudo apt upgrade'
+
 # tar
 alias tarls="tar -tvf"
 alias untar="tar -xf"
