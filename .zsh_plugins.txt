@@ -38,7 +38,7 @@ agkozak/zsh-z
 #
 ###
 $ZDOTDIR/.aliases
-#$ZDOTDIR/custom/plugins/example
+$ZDOTDIR/custom/plugins/binding
 
 ### Local Plugins with Variables
 #
