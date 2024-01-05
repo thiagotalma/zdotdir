@@ -233,5 +233,3 @@ zdharma-continuum/fast-syntax-highlighting kind:defer
 # These popular core plugins should be loaded at the end
 zsh-users/zsh-autosuggestions kind:defer
 zsh-users/zsh-history-substring-search
-
-joshskidmore/zsh-fzf-history-search
