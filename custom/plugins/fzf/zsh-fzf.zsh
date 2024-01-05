@@ -1,3 +1,5 @@
+#!/usr/bin/env zsh
+
 # do nothing if fzf is not installed
 (( ! $+commands[fzf] )) && return
 
