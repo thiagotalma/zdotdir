@@ -30,6 +30,8 @@ https://github.com/peterhurford/up.zsh
 ####mattmc3/zman
 agkozak/zsh-z
 
+### Terminal color
+chrissicool/zsh-256color
 
 ### Local Plugins
 #
