@@ -222,7 +222,6 @@ belak/zsh-utils path:history
 # side-effects (see: https://github.com/romkatv/zsh-defer#Caveats). However, for
 # certain plugins, this can greatly increase your zsh startup speed.
 #
-
 ###
 
 # Syntax highlighting
