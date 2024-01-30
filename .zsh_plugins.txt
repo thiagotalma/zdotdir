@@ -224,6 +224,7 @@ belak/zsh-utils path:history
 #
 
 ###
+
 # Syntax highlighting
 #
 #zsh-users/zsh-syntax-highlighting kind:defer
