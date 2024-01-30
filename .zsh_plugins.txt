@@ -229,6 +229,7 @@ belak/zsh-utils path:history
 #zsh-users/zsh-syntax-highlighting kind:defer
 zdharma-continuum/fast-syntax-highlighting kind:defer
 
+
 ### Final Plugins
 #
 # Remember plugin order matters! Put plugins that need run last at the bottom of your
