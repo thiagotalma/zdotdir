@@ -1,3 +1,7 @@
+sudo apt install zsh
+
+chsh -s $(which zsh)
+
 ZDOTDIR=~/.config/zsh
 [[ -d $ZDOTDIR ]] && rm -rf $ZDOTDIR
 
