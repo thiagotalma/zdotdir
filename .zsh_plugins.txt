@@ -26,7 +26,8 @@ zshzoo/macos conditional:is-macos
 belak/zsh-utils path:utility
 romkatv/zsh-bench kind:path
 ohmyzsh/ohmyzsh path:plugins/extract
-ohmyzsh/ohmyzsh path:plugins/pipenv
+#ohmyzsh/ohmyzsh path:plugins/pipenv
+owenstranathan/pipenv.zsh kind:path
 
 # Other Fish-like features
 zdharma-continuum/fast-syntax-highlighting  # Syntax highlighting
